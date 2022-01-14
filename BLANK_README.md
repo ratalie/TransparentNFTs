@@ -1,5 +1,6 @@
 <div id="top"></div>
 <!--
+*** USED BEST README Template so leaving the references - ngil 01/14/2022
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
@@ -29,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ratalie/TransparentNFTs">
+    <img src="images/nftb.png" alt="NFT">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Transparent NFTs</h3>
 
   <p align="center">
-    project_description
+    A multi-chain interface explorer, to make NFTs available to disabled people
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ratalie/TransparentNFTs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/ratalie/TransparentNFTs">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ratalie/TransparentNFTs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ratalie/TransparentNFTs/issues">Request Feature</a>
   </p>
 </div>
 
@@ -81,10 +82,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Setup a standard that all blockchains can use with a tag and the description on a field that is mainly unused.
+<img src="images/images/screen1.png">
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
