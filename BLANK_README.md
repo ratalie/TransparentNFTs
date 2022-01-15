@@ -83,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Setup a standard that all blockchains can use with a tag and the description on a field that is mainly unused.
-<img src="images/images/screen1.png">
+<img src="images/screen1.png">
 
 
 
