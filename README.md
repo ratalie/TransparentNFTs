@@ -102,7 +102,7 @@ Setup a multi-chain interface explorer, if marketplaces, sites or apps do not ha
 
 See demo
 
-[![TransparentNFTs Demo](http://https://github.com/ratalie/TransparentNFTs/images/F8FE1110-B641-41AA-B47C-F17900518F45.jpeg)](https://youtu.be/l7aMUnG0KlU “Demo")
+[![TransparentNFTs Demo](images/F8FE1110-B641-41AA-B47C-F17900518F45.jpeg](https://youtu.be/l7aMUnG0KlU “Demo")
 
 ### Built With
 
