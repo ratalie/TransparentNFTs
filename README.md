@@ -101,7 +101,8 @@ Setup a multi-chain interface explorer, if marketplaces, sites or apps do not ha
 
 
 See demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l7aMUnG0KlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![TransparentNFTs Demo](http://https://github.com/ratalie/TransparentNFTs/images/F8FE1110-B641-41AA-B47C-F17900518F45.jpeg)](https://youtu.be/l7aMUnG0KlU “Demo")
 
 ### Built With
 
