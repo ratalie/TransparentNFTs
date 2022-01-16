@@ -93,14 +93,12 @@ Setup a standard that all blockchains can use with a tag and the description on 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [web3.js]
+* [Moralis]
+* [IPFS]
+* [ENS]
+* [JavaScript]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,57 +107,43 @@ Setup a standard that all blockchains can use with a tag and the description on 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+We are using APIs and some libraries
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Node
+npm install web3
+### Yarn
+yarn add web3
+### Moralis
+Webpack v5
+We highly recommend you to use the stable 4.0.3 version of Webpack. If you want to use Moralis on your project with Webpack v5 you need to add the fallback to your webpack.config.js file:
 
-### Installation
+module.exports = {
+    resolve: {
+        fallback: {
+            assert: require.resolve('assert'),
+            crypto: require.resolve('crypto-browserify'),
+            http: require.resolve('stream-http'),
+            https: require.resolve('https-browserify'),
+            os: require.resolve('os-browserify/browser'),
+            stream: require.resolve('stream-browserify'),
+        },
+    },
+};
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+const Moralis = require('moralis');
+// ES6 Minimized
+import Moralis from 'moralis/dist/moralis.min.js';
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
 ## Roadmap
 
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
+- Proposed Standard to store information on every chain 
+- Setup NFTs multichain explorer
+- Setup incentive for people to contribute on descriptions
+- Propose other platforms to include that capability
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ratalie/TransparentNFTs/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
