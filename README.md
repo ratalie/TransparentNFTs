@@ -92,7 +92,7 @@ That leaves behind a great number of people with disabilities that cannot get th
 
 Other people supporting them can be helpful, but we should consider a standard to include on the information inherent to the NFT<br>
 
-<b>Solution/b><br>
+<b>Solution</b><br>
 Setup a multi-chain interface explorer, if marketplaces, sites or apps do not have it implemented.
 <img src="images/screen2.png">
   
