@@ -85,6 +85,20 @@ Setup a standard that all blockchains can use with a tag and the description on 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<b>Problem</b><br>
+Currently, the NFT market is been focused on the creation and trading of graphic (static or animated, sound based) art.<br>
+
+That leaves behind a great number of people with disabilities that cannot get the information of what the pieces of art are about, thus, cannot complete their research to be part of this ecosystem.<br>
+
+Other people supporting them can be helpful, but we should consider a standard to include on the information inherent to the NFT<br>
+
+<b>Solution/b><br>
+Setup a multi-chain interface explorer, if marketplaces, sites or apps do not have it implemented.
+<img src="images/screen2.png">
+  
+ Once the standard is well known, people receive incentive to complete the description for the NFTs <br>
+… yes that’s tokens for that bounty—this should need graceful sponsors committed to diversity to fund!<br>
+
 
 
 
