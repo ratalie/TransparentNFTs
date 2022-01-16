@@ -2,6 +2,6 @@
 https://api.etherscan.io/api
    ?module=token
    &action=tokeninfo
-   &contractaddress="ethaddress"
+   &contractaddress="ETHaddress"
    &apikey=YourApiKeyToken 
 /* read OVERVIEW field as per standard */
