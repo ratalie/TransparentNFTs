@@ -93,7 +93,7 @@ That leaves behind a great number of people with disabilities that cannot get th
 Other people supporting them can be helpful, but we should consider a standard to include on the information inherent to the NFT<br>
 
 <b>Solution</b><br>
-Setup a multi-chain interface explorer, if marketplaces, sites or apps do not have it implemented.
+Setup a multi-chain interface explorer, if marketplaces, sites or apps do not have it implemented. A reusable component to read those additional attributes from all the chains, it is agnostic as far as the standard field to read is defined on each chain’s explorer interface (tested with ton.sh #API explorer, etherscan, algoexplorer, polysgoncan and harmony explorer)
 <img src="images/screen2.png">
   
  Once the standard is well known, people receive incentive to complete the description for the NFTs <br>
@@ -105,11 +105,13 @@ See demo
 
 ### Built With
 
+* [ton.sh #API]
 * [web3.js]
 * [Moralis]
 * [IPFS]
 * [ENS]
 * [JavaScript]
+*
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
