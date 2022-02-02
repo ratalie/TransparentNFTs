@@ -37,7 +37,7 @@
 <h3 align="center">Transparent NFTs</h3>
 
   <p align="center">
-    A multi-chain interface explorer, to make NFTs available to disabled people
+    A multi-chain interface explorer, to make NFTs available to people with disabilities
     <br />
     <a href="https://github.com/ratalie/TransparentNFTs"><strong>Explore the docs »</strong></a>
     <br />
