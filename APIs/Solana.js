@@ -1,3 +1,7 @@
+/* 
+FOR METAPLEX
+add on Metadata Attribute field as per TransparentNFTs standard
+*/
 import { Connection } from '@metaplex/js'; 
 import { Metadata } from '@metaplex-foundation/mpl-token-metadata';
 import { PublicKey } from '@solana/web3.js';
