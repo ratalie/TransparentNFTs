@@ -1,4 +1,4 @@
-// Save file input to IPFS.
+// Save file input to IPFS
 const data = fileInput.files[0]
 const file = new Moralis.File(data.name, data)
 await file.saveIPFS();
