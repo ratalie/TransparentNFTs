@@ -1,5 +1,5 @@
 /* 
-FOR 
+FOR -
    &chain=Ethereum, Polygon all supported by NFT Port
    &apikey=YourApiKeyToken 
 read OVERVIEW/Or related field as per standard defined by TransparentNFTs to store inclusive data
