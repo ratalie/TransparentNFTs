@@ -101,7 +101,8 @@ Setup a multi-chain interface explorer, if marketplaces, sites or apps do not ha
 
 
 See demo
-[![TNFTs Demo](https://github.com/ratalie/TransparentNFTs/blob/0342abff3af994230fc0ec0e6b3f4c7a090ccd0e/images/F8FE1110-B641-41AA-B47C-F17900518F45.jpeg (https://youtu.be/dcHuIpY8nuw) "Demo")
+<a href="https://youtu.be/dcHuIpY8nuw">[TNFTs Demo]</a>
+<img src="images/F8FE1110-B641-41AA-B47C-F17900518F45.jpeg">
 
 ### Built With
 
